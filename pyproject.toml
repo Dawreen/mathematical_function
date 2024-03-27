@@ -6,7 +6,8 @@ authors = ["Dan <dntknwhtf@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
+pytest = "^8.1.1"
 
 
 [build-system]
