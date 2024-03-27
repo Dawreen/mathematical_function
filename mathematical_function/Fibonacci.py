@@ -27,8 +27,10 @@ class fibonacci(math_fun):
     def exec(n: int) -> int:
         return fibonacci.run(n)
     
+    # TODO
     def print(self) -> tuple:
         return super().print()
     
+    # TODO
     def graph(self):
         return super().graph()
